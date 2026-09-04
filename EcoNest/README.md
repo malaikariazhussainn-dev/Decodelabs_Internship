@@ -7,6 +7,11 @@ EcoNest is a clean, modern, and responsive static website focused on promoting s
 The project presents practical ideas and simple habits that can help people reduce energy consumption, minimize waste, use water responsibly, and create a more eco-friendly home environment.
 
 ---
+## 🌐 Live Demo
+
+🚀 **[View EcoNest Live Website](https://malaikariazhussainn-dev.github.io/Decodelabs_Internship/)**
+
+> Explore the fully responsive EcoNest website live on GitHub Pages.
 
 ## 📌 Project Overview
 
